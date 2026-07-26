@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniversalBinDay</string>
+    <string name="notification_channel_name">Bin Reminders</string>
+    <string name="notification_channel_desc">Night-before reminders for your bin collections</string>
+</resources>
